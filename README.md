@@ -18,7 +18,7 @@ Computer Science graduate (CGPA: 8.27) skilled in Full Stack Web Development (ME
 
 ## Contact
 - 📧 Email: [satyamjha2743@gmail.com](mailto:satyamjha2743@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/satyamjha](https://linkedin.com/in/satyamjha)
+- 🔗 LinkedIn: [linkedin.com/in/satyamjha](https://www.linkedin.com/in/satyam-kr-jha/)
 
 Feel free to explore my repositories or reach out for collaboration!
 
