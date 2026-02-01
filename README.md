@@ -1,38 +1,113 @@
-# 🚀 Satyam Kumar Jha
+<div align="center">
+  <h1>Satyam Kumar Jha</h1>
+  <p>
+    <strong>Full-Stack Software Engineer • MERN | AWS | Real-time | AI Integrations</strong><br>
+    Building scalable, performant applications with clean architecture
+  </p>
 
-B.Tech 2024 | MERN Stack Developer
+  <p>
+    <a href="https://www.linkedin.com/in/satyam-kr-jha/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:satyamjha2743@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://github.com/saty077">
+      <img src="https://img.shields.io/github/followers/saty077?style=for-the-badge&color=181717&logo=github&logoColor=white" alt="GitHub followers">
+    </a>
+  </p>
+</div>
 
-## About Me
-Computer Science graduate (CGPA: 8.27) skilled in Full Stack Web Development (MERN) and Data Structures & Algorithms (Java). Passionate about building scalable apps like [TradeFlow360](https://github.com/saty077/TradeFlow360) and [Wanderlust](https://wanderlust-nb4v.onrender.com/listings). Completed a Salesforce internship, earning Apex Specialist and other Super Badges.
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saty077&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saty077&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</div>
 
-## Skills
-- 💻 **Web Development**: MERN Stack (React.js, Node.js, Express.js, MongoDB), Redux, RESTful APIs, MVC, Bootstrap, Tailwind CSS
-- 🛠️ **Programming**: Java (Data Structures & Algorithms)
-- 🗄️ **Tools**: Git, GitHub
-- ☁️ **Salesforce**: Apex, Lightning Web Components (LWC), Process Automation
+<br>
 
-## Projects
-- 🌟 **[TradeFlow360](https://github.com/saty077/TradeFlow360)**: A MERN stack trading platform inspired by Zerodha with secure JWT authentication and dynamic dashboard.
-- 🏖️ **[Wanderlust](https://wanderlust-nb4v.onrender.com/listings)**: A full-stack booking app using MVC, MongoDB, and Cloudinary, with a responsive UI.
-- 📸 **[PostStream](https://github.com/saty077/PostStream)**: A MERN app for photo/caption posts with RESTful APIs and modular design.
+## 🛠️ Tech Stack
 
-## Contact
-- 📧 Email: [satyamjha2743@gmail.com](mailto:satyamjha2743@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/satyamjha](https://www.linkedin.com/in/satyam-kr-jha/)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+      <br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=webrtc" width="48" height="48" alt="WebRTC"/>
+      <br>WebRTC
+    </td>
+  </tr>
+</table>
 
-Feel free to explore my repositories or reach out for collaboration!
+## 🔥 Featured Projects
 
-<!--
-**Saty077/Saty077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| # | Project | Description | Tech | Links |
+|---|---------|-------------|------|-------|
+| 1 | **GitForge** | Custom version control system (Git-like) with AWS-hosted remote storage | Node.js, React, MongoDB, AWS S3/EC2/Amplify | [Repo](https://github.com/saty077/GitForge) |
+| 2 | **ISSAC-AI** | Real-time AI assistant powered by GPT-4o mini with thread management | React, Node.js, OpenAI API, MongoDB | [Repo](https://github.com/saty077/ISSAC-AI) |
+| 3 | **Meetrix** | Multi-user video conferencing with screen share & chat | React, WebRTC, Socket.IO, Material-UI | [Repo](https://github.com/saty077/Meetrix) • [Demo](#) |
+| 4 | **ProCircle** | Social platform with connections, posts, media, profiles & resume sharing | React, Redux, Node.js, MongoDB | [Repo](https://github.com/saty077/ProCircle) |
+| 5 | **Wanderlust** | Full-stack booking platform with image optimization | MERN, Cloudinary, Bootstrap | [Live](https://wanderlust-nb4v.onrender.com/listings) • [Repo](https://github.com/saty077/Wanderlust) |
+| 6 | **TradeFlow360** | Trading dashboard inspired by Zerodha | MERN, JWT, Redux | [Repo](https://github.com/saty077/TradeFlow360) |
 
-Here are some ideas to get you started:
+## 💼 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Salesforce Developer Intern** — SmartInternz / Trailhead  
+Dec 2023 – Jan 2024
+
+- Earned **Apex Specialist** + **Process Automation Specialist** Superbadges
+- Built Apex triggers, batch jobs, future/schedule methods, integrations
+- Created complex automation with Flows & Process Builder
+- Achieved **Developer Super Set** credential
+
+## 🎓 Education
+
+- **B.Tech Computer Science**  
+  Darbhanga College of Engineering  
+  2020 – 2024 | CGPA: 8.27
+
+- **Full Stack Web Development (Delta Course)**  
+  Apna College | 2025
+
+---
+
+<div align="center">
+  <p>Always open to interesting problems and good conversations.</p>
+  <p>Reach out → <a href="mailto:satyamjha2743@gmail.com">satyamjha2743@gmail.com</a></p>
+</div>
