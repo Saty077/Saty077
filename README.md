@@ -9,11 +9,11 @@
     <a href="https://www.linkedin.com/in/satyam-kr-jha/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <a href="https://x.com/Saty077">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    </a>
     <a href="mailto:satyamjha2743@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://github.com/saty077">
-      <img src="https://img.shields.io/github/followers/saty077?style=for-the-badge&color=181717&logo=github&logoColor=white" alt="GitHub followers">
     </a>
   </p>
 </div>
@@ -35,6 +35,10 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
       <br>React
     </td>
@@ -46,12 +50,12 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
       <br>Node.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
       <br>Express
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
       <br>MongoDB
@@ -65,12 +69,22 @@
       <br>Docker
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
+      <br>Kubernetes
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD"/>
+      <br>CI/CD
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=webrtc" width="48" height="48" alt="WebRTC"/>
-      <br>WebRTC
+      <img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="Socket.IO"/>
+      <br>Socket.IO
     </td>
   </tr>
 </table>
