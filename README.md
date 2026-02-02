@@ -77,41 +77,11 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="Socket.IO"/>
+      <img src="https://skillicons.dev/icons?i=socketio](https://icon-icons.com/icons/png/socketio-logo/169741/512" width="48" height="48" alt="Socket.IO"/>
       <br>Socket.IO
     </td>
   </tr>
 </table>
-
-## 🔥 Featured Projects
-
-| # | Project | Description | Tech | Links |
-|---|---------|-------------|------|-------|
-| 1 | **GitForge** | Custom version control system (Git-like) with AWS-hosted remote storage | Node.js, React, MongoDB, AWS S3/EC2/Amplify | [Repo](https://github.com/saty077/GitForge) |
-| 2 | **ISSAC-AI** | Real-time AI assistant powered by GPT-4o mini with thread management | React, Node.js, OpenAI API, MongoDB | [Repo](https://github.com/saty077/ISSAC-AI) |
-| 3 | **Meetrix** | Multi-user video conferencing with screen share & chat | React, WebRTC, Socket.IO, Material-UI | [Repo](https://github.com/saty077/Meetrix) • [Demo](#) |
-| 4 | **ProCircle** | Social platform with connections, posts, media, profiles & resume sharing | React, Redux, Node.js, MongoDB | [Repo](https://github.com/saty077/ProCircle) |
-| 5 | **Wanderlust** | Full-stack booking platform with image optimization | MERN, Cloudinary, Bootstrap | [Live](https://wanderlust-nb4v.onrender.com/listings) • [Repo](https://github.com/saty077/Wanderlust) |
-| 6 | **TradeFlow360** | Trading dashboard inspired by Zerodha | MERN, JWT, Redux | [Repo](https://github.com/saty077/TradeFlow360) |
-
-## 💼 Experience
-
-**Salesforce Developer Intern** — SmartInternz / Trailhead  
-Dec 2023 – Jan 2024
-
-- Earned **Apex Specialist** + **Process Automation Specialist** Superbadges
-- Built Apex triggers, batch jobs, future/schedule methods, integrations
-- Created complex automation with Flows & Process Builder
-- Achieved **Developer Super Set** credential
-
-## 🎓 Education
-
-- **B.Tech Computer Science**  
-  Darbhanga College of Engineering  
-  2020 – 2024 | CGPA: 8.27
-
-- **Full Stack Web Development (Delta Course)**  
-  Apna College | 2025
 
 ---
 
